@@ -1,4 +1,4 @@
-** start of index.jsx **
+
 
 // Define ADD, addMessage(), messageReducer(), and store here:
 
@@ -22,5 +22,4 @@ switch (action.type) {
 
 const store = Redux.createStore(messageReducer);
 
-** end of index.jsx **
 

@@ -1,4 +1,3 @@
-** start of index.jsx **
 
 class DisplayMessages extends React.Component {
   constructor(props) {
@@ -38,6 +37,4 @@ this.setState({
     );
   }
 };
-
-** end of index.jsx **
 

@@ -1,4 +1,3 @@
-** start of index.jsx **
 
 // Redux:
 const ADD = 'ADD';
@@ -85,5 +84,4 @@ render() {return (
   // Change code above this line
 };
 
-** end of index.jsx **
 
